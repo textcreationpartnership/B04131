@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his Grace James Duke of Queensberry, His Majesty's High Commissioner, and most honourable Estates of Parliament, the representation of George Lockhart merchant in Glasgow, and other inhabitants of that city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04131</idno>
+            <idno type="STC">Wing L2778</idno>
+            <idno type="STC">ESTC R179996</idno>
+            <idno type="EEBO-CITATION">52528851</idno>
+            <idno type="OCLC">ocm 52528851</idno>
+            <idno type="VID">178831</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178831)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2772:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his Grace James Duke of Queensberry, His Majesty's High Commissioner, and most honourable Estates of Parliament, the representation of George Lockhart merchant in Glasgow, and other inhabitants of that city.</title>
+                  <author>Lockhart, George, merchant.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Law and legislation --  Scotland --  Glasgow --  Early works to 1800.</term>
+               <term>Glasgow (Scotland) --  Charters, grants, privileges --  Early works to 1800.</term>
+               <term>Glasgow (Scotland) --  Politics and government --  17th century --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:178831:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>To His Grace JAMES Duke of <hi>Queensberry,</hi> His Majeſty's High Com<g ref="char:EOLhyphen"/>miſsioner, and moſt Honourable Eſtates of Parliament, The Repreſentation of <hi>George Lockhart</hi> Merchant in <hi>Glaſgow,</hi> and other Inhabitants of that City.</head>
+            <opener>HUMBLY SHEWETH.</opener>
+            <p>THAT Whereas, Their Majeſtys were Graciouſly Pleaſed, to grant a Charter in favours of the City of <hi>Glaſgow,</hi> which is alſo Ratified in Parliament, Giving Power to the ſaid City and Town Council thereof, to Elect their Pro<g ref="char:EOLhyphen"/>voſt, Bailies, and other Officers as freely as the City of <hi>Edinburgh.</hi> Whereby we humbly Conceive, that the Pro<g ref="char:EOLhyphen"/>voſt, Bailies, and Council were to be Elected in the ſame manner as the other Officers. But by Miſunderſtanding of the ſaid Charter and Act of Parliament, there has Creept in an Error in the practice of Elections, whereby the Merchants and Trades Halls are excluded both from Leiting and Electing of the Provoſt or the Bailies, or Choiſing the Council; And the ſaid Provoſt, and Bailies, are Leited and Elected, and the Council Choſen by the Council of the Preceeding Year; As if the ſaid Council were come in place of the Arch-Biſhop, to whom the Nomination of the Provoſt, and Choiſe of the Bailies, out of the Leits preſented by the Town Council, only belonged: And which Practice, We humbly Judge, is Con<g ref="char:EOLhyphen"/>trar to Our Charter and Act of Parliament.; And Tends plainly to the perpetuating the Magiſtracy in a few hands, Whereas the Election ought to be as free as any other Royal Burghs, and eſpecially in all Reſpects as that of the City of <hi>Edinburgh.</hi>
+            </p>
+            <p>WE DO LIKEWAYS humbly Repreſent; That We have ſuffered by Stenting and Impoſitions, under the Name of the King's Ceſs, Conſiderably beyond the Quota Impoſed upon the City by Acts of Parliament ſince <hi>VVhitſunday</hi> 1693; whereof We have Subjoined an Accompt: By which it may appear there has been Exacted 32586 Pound 18 ſh: 6 d. more than the King's Ceſs (not including the Over Stent now Impoſed for <hi>Lambaſs</hi> and <hi>Martinmaſs</hi> 1700) which is not only a Conſiderable Burden of it ſelf, but contrar to Law in manner of exacting, by Quartering, poinding and Impriſonment: This being Im<g ref="char:EOLhyphen"/>poſed and Exacted without Authority, and not pretended to by the Town of <hi>Edinburgh;</hi> We Humbly Beg, The ſame may be Redreſsed and prevented by the High and Honourable Court of Parliament.</p>
+            <p>
+               <hi>May it therefore pleaſe your Grace, and Moſt Honourable Eſtates of Parliament, to allow the Merchants and Trades Halls, to have the ſame Priviledges and Freedom, of Electing the Provoſt. Bai<g ref="char:EOLhyphen"/>lies, and Council, as they have of the Dean of Guild, and Dea<g ref="char:EOLhyphen"/>con-Conveener; And to Diſcharge any Stenting or Exaction, but what ſhall be impoſed by Acts of Parliament; which will reſtore quiet, and Encourage Induſtry, among the good Neighbours and Inhabitants of the Town of <hi>Glaſgow.</hi>
+               </hi>
+            </p>
+            <closer>And Your Petitioners ſhall ever Pray, &amp;c.</closer>
+         </div>
+         <div type="table">
+            <p>
+               <table>
+                  <head>
+                     <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Town of <hi>Glaſgows</hi> proportion of Ceſs, laid on by Acts of Parliament, As follows,</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Lib.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Towns Ceſs for Whitſunday and Lam:</hi> 1693 <hi>for ſix moneths,</hi>
+                     </cell>
+                     <cell>10800</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>to, <hi>at Martinmaſs</hi> 1693 <hi>and Candlem:</hi> 1694. <hi>for ſix Moneths,</hi>
+                     </cell>
+                     <cell>10800</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>to. <hi>At Whitſunday and Lamaſs</hi> 1694. <hi>for ſix moneths:</hi>
+                     </cell>
+                     <cell>10800</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>to, <hi>At Lamaſs</hi> 1695 <hi>and Candlemaſs</hi> 1696, <hi>for ſix moneths,</hi>
+                     </cell>
+                     <cell>10800</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>to, <hi>At Lamaſs</hi> 1696, <hi>for three Moneths is</hi>
+                     </cell>
+                     <cell>5400</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>to, <hi>At Martinmaſs</hi> 1696, <hi>Cand: and Whit:</hi> 1697. <hi>for ſix Moneths</hi>
+                     </cell>
+                     <cell>10800</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>to, <hi>At Lamaſs and Martinmas</hi> 1697, <hi>for</hi> 4 <hi>Moneths</hi>
+                     </cell>
+                     <cell>7200</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>to, <hi>At Candlemaſs and Whitſunday</hi> 1698. <hi>for four Moneths,</hi>
+                     </cell>
+                     <cell>7200</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>to, <hi>At Lamaſs and Martinmaſs</hi> 1698: <hi>for four moneths</hi>
+                     </cell>
+                     <cell>7200</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>to, <hi>At Mart:</hi> 98 <hi>Candl: &amp; Whit:</hi> 99: <hi>for</hi> 4 <hi>moneths &amp; a Quarter;</hi>
+                     </cell>
+                     <cell>7650</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>to, <hi>At Lomb: and Martin,</hi> 1691. <hi>for</hi> 4 <hi>moneths &amp; a quarter;</hi>
+                     </cell>
+                     <cell>7650</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>to, <hi>At Candlem: and Whit:</hi> 170<gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>for</hi> 4 <hi>moneths and a quarter,</hi>
+                     </cell>
+                     <cell>8160</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Reckoning for that time the Town <gap reason="illegible: damage" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi> 17 <hi>lib. o the Stent Rolls.</hi>
+                     </cell>
+                     <cell>8160</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>104460</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="table">
+            <p>
+               <table>
+                  <head>Money Impoſed under the Name of KINGS Ceſs, As Follows, Viz.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Lib.</cell>
+                     <cell role="label">ſh.</cell>
+                     <cell role="label">d<g ref="char:punc">▪</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By Stent impoſed for Whitſun: &amp; Lam:</hi> 1693: <hi>for ſix moneths</hi>
+                     </cell>
+                     <cell>11964</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> Ditto, <hi>for Mertin:</hi> 1693 <hi>and Candl:</hi> 94: <hi>for ſix moneths</hi>
+                     </cell>
+                     <cell>12000</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> Ditto. <hi>for Whitſun: and Lamb:</hi> 1694. <hi>for ſix moneths</hi>
+                     </cell>
+                     <cell>13000</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> Ditto, <hi>for Lamb:</hi> 1695 <hi>&amp; Candl:</hi> 1696 <hi>for ſix moneths;</hi>
+                     </cell>
+                     <cell>13000</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> Ditto; <hi>for Lambmaſs</hi> 1696 <hi>for three moneths;</hi>
+                     </cell>
+                     <cell>10363</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> Ditto; <hi>for Mar:</hi> 1696 <hi>Cand: and Whit:</hi> 97: <hi>for ſix moneths;</hi>
+                     </cell>
+                     <cell>11600</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> Ditto; <hi>for Lamb: and Mart:</hi> 1697; <hi>for four moneths;</hi>
+                     </cell>
+                     <cell>11000</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> Ditto; <hi>for Candl: and VVhitſ:</hi> 1698: <hi>for four moneths;</hi>
+                     </cell>
+                     <cell>9735</cell>
+                     <cell>9</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> Ditto; <hi>for Lamb: and Martinmaſs</hi> 1698; <hi>for four moneths.</hi>
+                     </cell>
+                     <cell>9700</cell>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> Ditto: <hi>for Mar:</hi> 98, <hi>Cand: &amp; Whit:</hi> 99; <hi>for</hi> 4 <hi>months &amp; a quar:</hi>
+                     </cell>
+                     <cell>8450</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>By</hi> Ditto, <hi>for Lamb: and Mar:</hi> 1699; <hi>for four months and a quar.</hi>
+                     </cell>
+                     <cell>10950</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>By Ditto; <hi>for Cand: and Whit:</hi> 1700 <hi>for</hi> 4 <hi>moneths and a quart:</hi>
+                     </cell>
+                     <cell>15284</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>137046</cell>
+                     <cell>18</cell>
+                     <cell>4</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <gap reason="illegible: page cropped" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>llance Impoſed and Exacted (th<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Over-Stent for<lb/> Lambmaſs and Martinmaſs 1700 not included)</cell>
+                     <cell>32586</cell>
+                     <cell>18</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>137046</cell>
+                     <cell>18</cell>
+                     <cell>4</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
